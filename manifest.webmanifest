@@ -1,0 +1,18 @@
+{
+  "name": "Dragon Ball Snap",
+  "short_name": "DB Snap",
+  "description": "A fast Dragon Ball card battle game. Win lanes, snap for more Zeni, unlock every fighter.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#070d22",
+  "theme_color": "#0b1236",
+  "categories": ["games"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
