@@ -2,4 +2,4 @@
    After you deploy the relay (see relay/README.md), set it like this:
    window.SNAP_RELAY = 'wss://dragon-ball-snap-relay.YOURNAME.workers.dev';
    Leave it empty to let players type a server address in the lobby instead. */
-window.SNAP_RELAY = '';
+window.SNAP_RELAY = 'wss://dragon-ball-snap-relay.bob.workers.dev';
